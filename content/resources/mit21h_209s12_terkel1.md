@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about blum and terkel, part I.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-209-america-in-depression-and-war-spring-2012/0b16b4d8eb0a569cfb5dd0d958cc8c1f_MIT21H_209S12_terkel1.pdf
 file_type: application/pdf
+parent_uid: bc93d4b4-d2db-f7d4-726f-2b92c5ff6aee
 resourcetype: Document
 title: 'Blum and Terkel, part I '
 uid: 0b16b4d8-eb0a-569c-fb5d-d0d958cc8c1f
